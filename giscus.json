@@ -1,0 +1,4 @@
+{
+    "origins": ["https://cirnovsky.net", "http://localhost:3000"],
+    "defaultCommentOrder": "newest"
+}
