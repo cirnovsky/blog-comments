@@ -1,4 +1,4 @@
 {
-    "originsRegex": ["https://cirnovsky.net/*"],
+    "origins": ["cirnovsky.net"],
     "defaultCommentOrder": "newest"
 }
