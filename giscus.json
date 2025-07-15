@@ -1,4 +1,4 @@
 {
-    "origins": ["https://www.cirnovsky.net", "https://guanyu.me"],
+    "origins": ["https://www.cirnovsky.net", "https://guanyu.me", "http://localhost:2333"],
     "defaultCommentOrder": "newest"
 }
